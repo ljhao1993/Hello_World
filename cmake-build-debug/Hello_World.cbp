@@ -88,6 +88,9 @@
 		<Unit filename="/home/jhlai/CLionProjects/Hello_World/main.cpp">
 			<Option target="Hello_World"/>
 		</Unit>
+		<Unit filename="/home/jhlai/CLionProjects/Hello_World/unittest.cpp">
+			<Option target="Hello_World"/>
+		</Unit>
 		<Unit filename="/home/jhlai/CLionProjects/Hello_World/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
